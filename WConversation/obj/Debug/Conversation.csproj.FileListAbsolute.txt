@@ -1,0 +1,165 @@
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\ApplicationInsights.config
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\roslyn\csc.exe
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\roslyn\vbc.exe
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\roslyn\VBCSCompiler.exe
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\WatsonSamples.dll.config
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\WatsonSamples.dll
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\WatsonSamples.pdb
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\Antlr3.Runtime.dll
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\Microsoft.AI.Web.dll
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\Microsoft.ApplicationInsights.dll
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\Newtonsoft.Json.dll
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\RestSharp.dll
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\System.Web.Helpers.dll
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\System.Web.Mvc.dll
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\System.Web.Optimization.dll
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\System.Web.Razor.dll
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\System.Web.WebPages.Deployment.dll
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\System.Web.WebPages.dll
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\System.Web.WebPages.Razor.dll
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\WebGrease.dll
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\Microsoft.AI.Web.xml
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\Microsoft.ApplicationInsights.xml
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\RestSharp.xml
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\System.Web.Helpers.xml
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\System.Web.Mvc.xml
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\System.Web.Optimization.xml
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\System.Web.Razor.xml
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\System.Web.WebPages.xml
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\System.Web.WebPages.Deployment.xml
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\System.Web.WebPages.Razor.xml
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\Antlr3.Runtime.pdb
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\bin\Newtonsoft.Json.xml
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\obj\Debug\Conversation.csprojResolveAssemblyReference.cache
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\obj\Debug\WatsonSamples.dll
+C:\Users\IBM_ADMIN\documents\visual studio 2015\Projects\WatsonSamples\WatsonSamples\obj\Debug\WatsonSamples.pdb
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\ApplicationInsights.config
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\roslyn\csc.exe
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\roslyn\System.Collections.Immutable.dll
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\roslyn\System.Reflection.Metadata.dll
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\roslyn\vbc.exe
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\roslyn\VBCSCompiler.exe
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\roslyn\VBCSCompiler.exe.config
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\WatsonSamples.dll.config
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\WatsonSamples.dll
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\WatsonSamples.pdb
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\Antlr3.Runtime.dll
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\Microsoft.AI.Agent.Intercept.dll
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\Microsoft.AI.DependencyCollector.dll
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\Microsoft.AI.Web.dll
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\Microsoft.AI.WindowsServer.dll
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\Microsoft.ApplicationInsights.dll
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\Microsoft.Web.Infrastructure.dll
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\Newtonsoft.Json.dll
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\RestSharp.dll
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\System.Web.Helpers.dll
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\System.Web.Mvc.dll
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\System.Web.Optimization.dll
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\System.Web.Razor.dll
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\System.Web.WebPages.Deployment.dll
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\System.Web.WebPages.dll
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\System.Web.WebPages.Razor.dll
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\WebGrease.dll
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\Microsoft.AI.DependencyCollector.xml
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\Microsoft.AI.Web.xml
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\Microsoft.AI.WindowsServer.xml
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\Microsoft.ApplicationInsights.xml
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\RestSharp.xml
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\System.Web.Helpers.xml
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\System.Web.Mvc.xml
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\System.Web.Optimization.xml
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\System.Web.Razor.xml
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\System.Web.WebPages.xml
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\System.Web.WebPages.Deployment.xml
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\System.Web.WebPages.Razor.xml
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\Antlr3.Runtime.pdb
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\bin\Newtonsoft.Json.xml
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\obj\Debug\Conversation.csprojResolveAssemblyReference.cache
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\obj\Debug\WatsonSamples.dll
+C:\00_Data\vsstudio\WatsonSamples\WatsonSamples\obj\Debug\WatsonSamples.pdb
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\ApplicationInsights.config
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\roslyn\csc.exe
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\roslyn\System.Collections.Immutable.dll
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\roslyn\System.Reflection.Metadata.dll
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\roslyn\vbc.exe
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\roslyn\VBCSCompiler.exe
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\roslyn\VBCSCompiler.exe.config
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\WatsonSamples.dll.config
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\WatsonSamples.dll
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\WatsonSamples.pdb
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\Antlr3.Runtime.dll
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\Microsoft.AI.Agent.Intercept.dll
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\Microsoft.AI.DependencyCollector.dll
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\Microsoft.AI.Web.dll
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\Microsoft.AI.WindowsServer.dll
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\Microsoft.ApplicationInsights.dll
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\Microsoft.Web.Infrastructure.dll
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\Newtonsoft.Json.dll
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\RestSharp.dll
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\System.Web.Helpers.dll
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\System.Web.Mvc.dll
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\System.Web.Optimization.dll
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\System.Web.Razor.dll
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\System.Web.WebPages.Deployment.dll
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\System.Web.WebPages.dll
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\System.Web.WebPages.Razor.dll
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\WebGrease.dll
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\Microsoft.AI.DependencyCollector.xml
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\Microsoft.AI.Web.xml
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\Microsoft.AI.WindowsServer.xml
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\Microsoft.ApplicationInsights.xml
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\RestSharp.xml
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\System.Web.Helpers.xml
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\System.Web.Mvc.xml
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\System.Web.Optimization.xml
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\System.Web.Razor.xml
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\System.Web.WebPages.xml
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\System.Web.WebPages.Deployment.xml
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\System.Web.WebPages.Razor.xml
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\Antlr3.Runtime.pdb
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\bin\Newtonsoft.Json.xml
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\obj\Debug\Conversation.csprojResolveAssemblyReference.cache
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\obj\Debug\WatsonSamples.dll
+C:\00_Data\vsstudio\wconversation-dotnet-v2\WConversation\obj\Debug\WatsonSamples.pdb
