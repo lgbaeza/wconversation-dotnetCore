@@ -55,7 +55,15 @@ namespace WatsonSamples.Controllers
                         watsonResponse.context.rfc_valido = ApiClients.ValidateRFC(watsonResponse.context.rfc);
                         break;
                     case "consulta_precios":
-                        //consulta BD de precios
+                        
+                        var product = watsonResponse.context.producto;
+                        var productType = watsonResponse.context.tipo_producto;
+                        int usuarios = int.Parse(watsonResponse.context.cantidad_usuarios);
+
+                        var precio = ApiClients.GetProductPrice(product, usuarios, productType);
+
+                        watsonResponse.context.ban_accion = null;
+                        watsonResponse.context.precio_producto = "$" + precio;
                         break;
                 }
             }
