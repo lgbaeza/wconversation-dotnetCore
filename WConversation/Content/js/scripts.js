@@ -18,9 +18,16 @@ function SendMessage()
 	xhttp.onreadystatechange = function() {
 		
 		if (this.readyState == 4 && this.status == 200) {
-			chatbot.innerHTML = chatbot.innerHTML + this.responseText;
-			scrollDownChat();
-			document.getElementById('watson_input').value = "";
+		    if (this.response == "redirect_pago") {
+		        chatbot.innerHTML = chatbot.innerHTML + "Serás redireccionado";
+		        document.location = 'https://escritorio.aspel.com.mx/webapps/CotizadorSist.exe/Cotizador';
+		        scrollDownChat();
+		    }
+		    else {
+		        chatbot.innerHTML = chatbot.innerHTML + this.responseText;
+		        scrollDownChat();
+		        document.getElementById('watson_input').value = "";
+		    }
 		}
 	};
 	xhttp.open("GET", "/api/SendMessage?id=" + msg, true);

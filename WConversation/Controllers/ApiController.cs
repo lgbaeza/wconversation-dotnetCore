@@ -49,6 +49,9 @@ namespace WatsonSamples.Controllers
             {
                 switch (watsonResponse.context.ban_accion)
                 {
+                    case "redirect_pago":
+                        return "redirect_pago";
+                            //"window.location='https://escritorio.aspel.com.mx/webapps/CotizadorSist.exe/Cotizador'";
                     case "valida_rfc":
                         callbackWatson = true;
                         watsonResponse.context.ban_accion = null;

@@ -35,6 +35,9 @@ namespace WatsonSamples.Models
                 //Execute command
                 MySqlDataReader dataReader = cmd.ExecuteReader();
 
+                if (dataReader.Read())
+                    res = int.Parse(dataReader[0].ToString());
+
                 connection.Close();
 
             }
